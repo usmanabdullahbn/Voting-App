@@ -1,0 +1,32 @@
+.footer-section {
+  background-color: #333;
+  color: #fff;
+  padding: 2px 0;
+padding-top: 20px;
+  justify-content: center;
+  text-align: center;
+}
+.my-name {
+  font-family: "Poppins", sans-serif;
+  color: #d0d2d3;
+  font-size: 32px;
+}
+.footer-text {
+  font-style: italic;
+  color: #bbbcbe;
+  padding: 10px;
+}
+
+.social-links {
+  padding: 2px;
+  padding-bottom: 20px;
+}
+.social-links a {
+  color: #d0d2d3;
+  padding: 10px;
+  font-size: 18px;
+}
+.social-links a:hover {
+  color: #fff;
+}
+
